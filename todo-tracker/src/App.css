@@ -43,14 +43,14 @@ form .input-item{
   width: 250px;
   color: #6132e2;
 }
+
 .complete-btn, .trash-btn, form .add-item{
   padding: 0px;
   border: 0px solid #280247;
   background-color:#f3effa93;
   width: 40px;
   height: 40px;
-  color: #6132e2;
-  
+  color: #0f0727;
 }
 
 form .add-item{
